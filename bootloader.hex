@@ -1,0 +1,6 @@
+//For now, just a simple loop that decrements a counter in R0
+5020 //         AND R0, R0, #0
+1025 // INIT    ADD R0, R0, #5
+103F // LOOP    ADD R0, R0, #-1
+03FE //         BRp LOOP    ;-2
+0FFC //         BRnzp INIT  ;-4
