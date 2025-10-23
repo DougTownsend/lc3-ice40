@@ -1,0 +1,36 @@
+set_io w_en 10
+set_io data[0] 12
+set_io data[1] 21
+set_io data[2] 13
+set_io data[3] 19
+set_io data[4] 18
+set_io data[5] 11
+set_io data[6] 9
+set_io data[7] 6
+set_io data[8] 44
+set_io data[9] 4
+set_io data[10] 3
+set_io data[11] 48
+set_io data[12] 45
+set_io data[13] 47
+set_io data[14] 46
+set_io data[15] 2
+
+set_io addr[0] 39
+set_io addr[1] 40
+set_io addr[2] 41
+set_io addr[3] 23
+set_io addr[4] 25
+set_io addr[5] 26
+set_io addr[6] 27
+set_io addr[7] 32
+set_io addr[8] 35
+set_io addr[9] 31
+set_io addr[10] 37
+set_io addr[11] 34
+set_io addr[12] 43
+set_io addr[13] 36
+set_io addr[14] 42
+set_io addr[15] 38
+
+set_io clk 20
